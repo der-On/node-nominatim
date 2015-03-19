@@ -8,9 +8,6 @@
     "url": "git://github.com/der-On/node-nominatim.git"
   },
   "main": "lib/nominatim",
-  "engines": {
-    "node": "~0.6.11"
-  },
   "dependencies": {
     "tqueue": "~0.1.0",
     "request": "~2.9.200"
